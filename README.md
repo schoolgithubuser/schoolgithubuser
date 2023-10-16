@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @schoolgithubuser
+- 👀 I’m interested in ULTRAKILL and GD.
+- 🌱 I’m currently learning JS.
+- 📫 How to reach me: My Discord is tungsten_woat8847
